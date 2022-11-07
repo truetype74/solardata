@@ -1,11 +1,11 @@
 {
     "fields": {
-        "d_rilevazione": "07/11/2022 17:52:39",
+        "d_rilevazione": "07/11/2022 18:14:27",
         "energy": 0
     },
     "measurement": "rpi_123Solar",
     "tags": {
         "pannello": "PANNELLI1"
     },
-    "time": "2022-11-07T16:52:39Z"
+    "time": "2022-11-07T17:14:27Z"
 }
